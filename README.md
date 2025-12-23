@@ -59,3 +59,4 @@ The theme features a carefully curated color scheme:
 Found an issue or have a suggestion? Open an [issue](https://github.com/amirphiladam2/ByteNight/issues).
 
 *ByteNight isn't just a theme - it's your coding companion for a more enjoyable development experience.*# ByteNight
+# ByteNight
