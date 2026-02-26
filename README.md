@@ -8,7 +8,7 @@
 
 ByteNight combines deep, rich dark backgrounds with vibrant accent colors to create a coding environment that's easy on the eyes during those long coding sessions. The carefully crafted color palette reduces eye strain while maintaining excellent code readability and syntax distinction.
 
-## ✨ Key Features
+##  Key Features
 
 - **Ultra-dark background** (#0A0A0F) for maximum comfort during extended coding sessions
 - **Vibrant cyan highlights** (#00D9FF) for active elements and cursor visibility
@@ -19,7 +19,7 @@ ByteNight combines deep, rich dark backgrounds with vibrant accent colors to cre
 - **Markdown optimized** with special formatting for documentation
 - **Git integration colors** for clear version control status indication
 
-## 🎯 Perfect For
+##  Perfect For
 
 - **Frontend Developers** - Beautiful HTML, CSS, JavaScript, and React highlighting
 - **Backend Engineers** - Clear distinction for server-side languages
@@ -27,7 +27,7 @@ ByteNight combines deep, rich dark backgrounds with vibrant accent colors to cre
 - **DevOps Engineers** - Great terminal integration with matching colors
 - **Technical Writers** - Enhanced Markdown support for documentation
 
-## 🌈 Color Palette
+##  Color Palette
 
 The theme features a carefully curated color scheme:
 - **Strings & Text**: Emerald green (#10B981)
@@ -38,7 +38,7 @@ The theme features a carefully curated color scheme:
 - **Variables**: Clean white (#E2E8F0)
 - **Errors**: Clear red (#EF4444)
 
-## 🚀 Enhanced Productivity
+##  Enhanced Productivity
 
 - **Reduced eye fatigue** with optimized contrast ratios
 - **Faster code scanning** thanks to distinct syntax coloring
@@ -46,7 +46,7 @@ The theme features a carefully curated color scheme:
 - **Professional appearance** for screen sharing and presentations
 - **Consistent experience** across all file types and languages
 
-## 📱 What You Get
+##  What You Get
 
 - Complete UI theming for all VSCode elements
 - Syntax highlighting for 25+ programming languages
